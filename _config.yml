@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sam Wolken"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Sam Wolken"
 description              : &description "Computational Social Scientist"
 url                      : https://swolken.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
