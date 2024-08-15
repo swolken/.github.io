@@ -21,7 +21,7 @@ repository               : "swolken/swolken.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.png"
+  avatar           : "images/headshot.jpg"
   name             : "Sam Wolken"
   pronouns         : # example: "she/her"  
   bio              : "Researching politics and media & computational tools for social science"
