@@ -42,13 +42,13 @@ Service and leadership
 Work experience
 ======
 * June - August 2019: Graduate student intern
-  * Langer Research
+  * [Langer Research](https://www.langerresearch.com/)
   * Contributed to all aspects of public opinion research, including the Washington Post/ABC News poll
 
 * September 2016 - August 2018
-  * Forrester Research
+  * [Forrester Research](https://www.langerresearch.com/)
   * Bylined contributor to more than 40 research papers on consumer behavior
 
 * June 2014 - August 2018
-  * Glover Park Group (now FGS Global)
+  * Glover Park Group (now [FGS Global](https://fgsglobal.com/))
   * Junior associate on strategic communications campaigns for corporate, governmental, and NGO clients.
