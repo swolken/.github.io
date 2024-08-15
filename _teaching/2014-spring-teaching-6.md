@@ -1,5 +1,5 @@
 ---
-title: "Introduction to American Politics"
+title: "Introduction to American Politics (Fall 2022)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-6
