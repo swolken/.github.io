@@ -1,5 +1,5 @@
 ---
-title: "Race and Ethnic Politics (Spring 2023)"
+title: "Race and Ethnic Politics (TA, Spring 2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-7
