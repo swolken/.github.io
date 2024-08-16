@@ -1,5 +1,5 @@
 ---
-title: "Political Communication (Fall 2021)"
+title: "Political Communication (TA, Fall 2021)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-5
