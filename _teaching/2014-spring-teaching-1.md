@@ -1,5 +1,5 @@
 ---
-title: "History of Communication (Fall 2018)"
+title: "History of Communication (TA, Fall 2018)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
