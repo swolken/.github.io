@@ -38,7 +38,7 @@ Service, leadership, and community
 ======
 * 10th International Conference on Computational Social Science, University of Pennsylvania, 2024: Program Committee, Local Committee
 * Summer Institute in Computational Social Science, University of Pennsylvania, 2024: Organizer, Treasurer
-* Co-creator of [open-source software]([url](https://github.com/npangakis/gpt_annotate)) that simplifies text annotation with GPT models
+* Co-creator of [gpt_annotate]([url](https://github.com/npangakis/gpt_annotate)), open-source software that helped researchers use and validate GPT models for text annotation
 
 Work experience
 ======
