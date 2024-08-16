@@ -1,5 +1,5 @@
 ---
-title: "Communication Research Methods (Fall 2019)"
+title: "Communication Research Methods (TA, Fall 2019)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-3
