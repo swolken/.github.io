@@ -1,5 +1,5 @@
 ---
-title: "Principles of Strategic Communication (Spring 2019)"
+title: "Principles of Strategic Communication (TA, Spring 2019)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-2
