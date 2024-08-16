@@ -52,4 +52,4 @@ Work experience
 
 * June 2014 - August 2018
   * Glover Park Group (now [FGS Global](https://fgsglobal.com/))
-  * Junior associate on strategic communications campaigns for corporate, governmental, and NGO clients.
+  * Junior associate on strategic communications campaigns for corporate, governmental, and NGO clients
